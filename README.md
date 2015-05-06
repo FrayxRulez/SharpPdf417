@@ -19,7 +19,7 @@ Supported platforms
 
 How to
 ======
-A sample Windows Form project is included in the solution. In Xaml you can use WriteableBitmap to set pixels directly
+A  Windows Form sample is included in the solution. In Xaml you can use WriteableBitmap to set pixels directly
 
 Install
 =======
