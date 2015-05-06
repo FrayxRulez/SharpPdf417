@@ -4,7 +4,7 @@ Introduction
 ============
 SharpPdf417 is a portable library that let you create raw PDF 417 barcodes. The code is released under the MIT/X11, so feel free to modify and share your changes with the world. 
 
-The source is based on [jpdf417].
+Source is based on [jpdf417].
 
 Supported platforms
 ==================
